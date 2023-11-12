@@ -1,0 +1,26 @@
+.headding{
+    background-color: orange;
+    text-align: center;
+}
+.headding2{
+    font-style: italic;
+    text-align: center;
+}
+.photo{
+    text-align: center;
+}
+.container{
+    background-color: rgb(209, 132, 212);
+}
+.para{
+    font-size: 25px;
+}
+.photo:hover{
+    border: yellow 12px dashed;
+    background-color: red;
+}
+span:hover{
+    color: red;
+    font-size: 50px;
+    background-color: black;
+}
